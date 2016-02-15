@@ -58,7 +58,7 @@
         <ResourceBaseClass Value="Form"/>
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="20" Y="5"/>
+        <CursorPos X="48" Y="10"/>
         <UsageCount Value="21"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
@@ -185,9 +185,7 @@
     </CodeGeneration>
     <Linking>
       <Debugging>
-        <GenerateDebugInfo Value="False"/>
         <UseLineInfoUnit Value="False"/>
-        <StripSymbols Value="True"/>
       </Debugging>
       <LinkSmart Value="True"/>
       <Options>
@@ -199,7 +197,7 @@
     <Other>
       <ExecuteAfter>
         <Command Value="$Path($(CompPath))\strip.exe $(TargetFile)"/>
-        <CompileReasons Compile="False" Build="False" Run="False"/>
+        <CompileReasons Compile="False" Run="False"/>
       </ExecuteAfter>
     </Other>
   </CompilerOptions>
