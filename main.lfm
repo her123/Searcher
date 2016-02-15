@@ -74,7 +74,7 @@ object Form1: TForm1
       object btnSearch: TButton
         Left = 53
         Height = 25
-        Hint = 'Begin search'
+        Hint = 'Begin search of the files'
         Top = 96
         Width = 75
         Caption = '&Search'
