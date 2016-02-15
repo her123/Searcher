@@ -46,7 +46,7 @@
         <Filename Value="serform.lpr"/>
         <IsPartOfProject Value="True"/>
         <CursorPos X="22" Y="20"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>
       </Unit0>
@@ -59,7 +59,7 @@
         <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
         <CursorPos X="48" Y="10"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
         <DefaultSyntaxHighlighter Value="Delphi"/>

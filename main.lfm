@@ -63,8 +63,11 @@ object Form1: TForm1
       object edSearchFiles: TEdit
         Left = 53
         Height = 21
+        Hint = 'Filename or *.xxx'
         Top = 16
         Width = 65
+        ParentShowHint = False
+        ShowHint = True
         TabOrder = 1
         Text = '*.htm'
       end
@@ -261,8 +264,8 @@ object Form1: TForm1
     end
     object TabSheet2: TTabSheet
       Caption = 'Start/End'
-      ClientHeight = 0
-      ClientWidth = 0
+      ClientHeight = 340
+      ClientWidth = 599
       ImageIndex = 1
       TabVisible = False
       object Label5: TLabel
@@ -349,9 +352,9 @@ object Form1: TForm1
       end
       object Label17: TLabel
         Left = 8
-        Height = 26
+        Height = 13
         Top = 139
-        Width = 104
+        Width = 193
         Caption = 'Save changed file with the file extension:'
         Font.Color = clMaroon
         Font.Height = -11
@@ -433,8 +436,8 @@ object Form1: TForm1
     end
     object TabSheet4: TTabSheet
       Caption = 'Options'
-      ClientHeight = 0
-      ClientWidth = 0
+      ClientHeight = 340
+      ClientWidth = 599
       ImageIndex = 3
       object Label14: TLabel
         Left = 40
