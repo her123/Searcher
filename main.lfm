@@ -485,12 +485,12 @@ object Form1: TForm1
     TabOrder = 1
   end
   object GroupBox1: TGroupBox
-    Left = 0
+    Left = 8
     Height = 49
     Top = 0
-    Width = 569
+    Width = 607
     ClientHeight = 31
-    ClientWidth = 565
+    ClientWidth = 603
     TabOrder = 2
     object Label10: TLabel
       Left = 14
@@ -505,7 +505,7 @@ object Form1: TForm1
       ParentFont = False
     end
     object Button4: TButton
-      Left = 518
+      Left = 554
       Height = 21
       Hint = 'Browse for path'
       Top = 2
@@ -525,7 +525,7 @@ object Form1: TForm1
       Left = 46
       Height = 21
       Top = 2
-      Width = 457
+      Width = 499
       ItemHeight = 13
       TabOrder = 0
     end
